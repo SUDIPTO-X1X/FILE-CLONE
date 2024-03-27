@@ -4,5 +4,5 @@
 rm -rf FILE-CLONE
 git clone https://github.com/SUDIPTO-444/FILE-CLONE
 cd FILE-CLONE
-python FILR.py
+python FILE.py
 ```
